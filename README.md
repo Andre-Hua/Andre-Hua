@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-hua&label=Profile%20views&color=0e75b6&style=flat" alt="andre-hua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre-hua" alt="andre-hua" /></a> </p>
-
 - 🌱 I’m currently learning **Front-end development (Web page, app)**
 
 - 💬 Ask me about **Machine learning, deep learning, TNN**
